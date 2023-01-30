@@ -1,6 +1,6 @@
-# Frontend Mentor - 3-column preview card component solution
+# Frontend Mentor - Order summary card solution
 
-This is a solution to the [3-column preview card component](https://www.frontendmentor.io/solutions/3column-preview-card-component--xxamoxSKH). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Order summary card](https://www.frontendmentor.io/solutions/3column-preview-card-component--xxamoxSKH). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/scrennshotdesktop.png)
-![](./design/scrennshotmobile.png)
+![](./design/screenshot.png)
+![](./design/screenshotmobile.png)
 
 
 
